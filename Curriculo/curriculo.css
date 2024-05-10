@@ -1,0 +1,44 @@
+/* ele centraliza tudo oque esta no cabeçalho */
+header{
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        
+}
+/* ele centraliza tudo oque esta na div*/
+div{
+      text-align: center;
+}
+/* Ele estiliza tudo oque está no ID titulo */
+#titulo{
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* Ele estila tudo oque está na Class inf */
+.inf{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+}
+/* Ele estiliza tudo oque está na Class ul */
+.ul{
+        font-size: 35px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+/* Ele estiliza tudo oque está na Class li */
+.li{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: red;
+}
+/* Ele estila a borda que está ao redor do curriculo que ta numa div com o ID Caixa */
+#Caixa{
+        margin: 200px;
+        border: 15px solid black;
+        padding: 50px;
+        
+}
+/* Ele estiliza o rodapé */
+footer{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color:#363636 ;
+}
